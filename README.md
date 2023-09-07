@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Sanath Bhat S M</h1>
 <h3 align="center">An Engineering Graduate from Bengaluru</h3>
 
