@@ -1,4 +1,6 @@
-![Header](./github-header-image.png)
+<p align="center" >
+  <img src="./github-header-image.png" alt="Header Image" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Sanath Bhat S M</h1>
 <h3 align="center">Embedded Software Engineer | Yocto • Linux Kernel • U-Boot • C • i.MX8MP</h3>
 
