@@ -11,15 +11,15 @@
 - &nbsp; U-Boot bootloader development (POST, RAM training, env storage)</br>
 - &nbsp; Linux kernel driver development (GPIO, board revision, bring-up)</br>
 - &nbsp; CVE assessment, patching & security hardening for embedded systems</br>
-- &nbsp; Manufacturing and diagnostic tools in **C, Python, Shell**</br>
-- &nbsp; BSP integration & hardware bring-up on **NXP i.MX8MP (Avnet SMARC)**</br>
+- &nbsp; Manufacturing and diagnostic tools in C, Python, Shell</br>
+- &nbsp; BSP integration & hardware bring-up on NXP i.MX8MP (Avnet SMARC)</br>
 - &nbsp; Download my <a href="https://drive.google.com/file/d/1ank28wwgaMqnOPcBs3us-TCvi0RUptTp/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a> here</br>
 
 <h3>🛠 Tech Stack</h3>
 - Programming: C | Python | Shell Scripting | Multithreading</br>
 - Embedded Linux: Yocto | U-Boot | Kernel | Device Drivers | Systemd</br>
 - Tools: Git | Confluence | Minicom | Bitbake</br>
-- Hardware: i.MX8MP | Raspberry Pi | TPM | Ethernet | MQTT | RS232 | Wi-Fi</br>
+- Hardware: i.MX8MP | Raspberry Pi | TPM | Ethernet | RS232 | Wi-Fi</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
